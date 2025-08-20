@@ -3,16 +3,16 @@ module github.com/trinhminhtriet/binpull
 go 1.24
 
 require (
-	github.com/BurntSushi/toml v1.2.1
+	github.com/BurntSushi/toml v1.5.0
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/gobwas/glob v0.2.3
 	github.com/jessevdk/go-flags v1.5.0
+	github.com/klauspost/compress v1.15.15
 	github.com/schollz/progressbar/v3 v3.8.2
 	github.com/ulikunitz/xz v0.5.10
 )
 
 require (
-	github.com/klauspost/compress v1.15.15 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
