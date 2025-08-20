@@ -1,0 +1,9 @@
+binpull
+binpull.exe
+binpull-*
+todo.txt
+binpull.1
+/test/*
+!/test/test_binpull.go
+!/test/binpull.toml
+.binpull.toml
