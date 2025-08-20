@@ -3,7 +3,7 @@ module github.com/trinhminhtriet/binpull
 go 1.24
 
 require (
-	github.com/BurntSushi/toml v1.2.1
+	github.com/BurntSushi/toml v1.5.0
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/gobwas/glob v0.2.3
 	github.com/jessevdk/go-flags v1.5.0
