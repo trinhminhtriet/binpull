@@ -9,7 +9,7 @@ require (
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/klauspost/compress v1.15.15
 	github.com/schollz/progressbar/v3 v3.18.0
-	github.com/ulikunitz/xz v0.5.13
+	github.com/ulikunitz/xz v0.5.15
 )
 
 require (
