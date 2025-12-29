@@ -8,7 +8,7 @@ require (
 	github.com/gobwas/glob v0.2.3
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/klauspost/compress v1.18.1
-	github.com/schollz/progressbar/v3 v3.18.0
+	github.com/schollz/progressbar/v3 v3.19.0
 	github.com/ulikunitz/xz v0.5.15
 )
 
